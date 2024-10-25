@@ -1,0 +1,9 @@
+D:/program/l4/build/CMakeFiles/lab4.dir
+D:/program/l4/build/CMakeFiles/package.dir
+D:/program/l4/build/CMakeFiles/package_source.dir
+D:/program/l4/build/CMakeFiles/edit_cache.dir
+D:/program/l4/build/CMakeFiles/rebuild_cache.dir
+D:/program/l4/build/src/CMakeFiles/package.dir
+D:/program/l4/build/src/CMakeFiles/package_source.dir
+D:/program/l4/build/src/CMakeFiles/edit_cache.dir
+D:/program/l4/build/src/CMakeFiles/rebuild_cache.dir
